@@ -1,0 +1,149 @@
+#title_website {
+    text-align: center;
+    color: white;
+    font-family: Brush Script MT,cursive; 
+    font-size: 30px;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.titles {
+    text-align: center;
+    color: white;
+    font-family: Brush Script MT,cursive; 
+}
+
+body {
+    background-image: url("images/DCbackground.jpg");
+    font-family: ; 
+  }
+
+  .images {
+      display: flex;
+      justify-content: space-around;
+  }
+  .images img{
+      width: 280px;
+  }
+  /* .images:hover {
+      background-color: grey;
+  } */
+
+#major_game_div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.game_bubbles {
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 50px;
+    border: 2px solid white; 
+    border-radius: 12px;
+    padding: 5px;
+    box-shadow: 5px 5px grey;
+}
+
+.descriptions {
+    text-align: justify;
+    color: black;
+    background-color: white;
+    padding-top: 1px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-family: Brush Script MT,cursive; 
+}
+
+.game_bubbles:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+}
+
+#fortnite_des {
+    padding-bottom: 1px;
+}
+
+#starwars_des {
+    padding-bottom: 29px;
+}
+
+
+#fifa_des {
+    padding-bottom: 29px;
+}
+
+#major_video_div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.video_bubbles {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 50px;
+    border: 2px solid white; 
+    border-radius: 12px;
+    padding: 5px;
+    box-shadow: 5px 5px grey;
+}
+
+.reviews {
+    text-align: justify;
+    color: black;
+    background-color: white;
+    padding-top: 1px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-family: Brush Script MT,cursive; 
+}
+
+.video_bubbles:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+}
+
+#about_section {
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#about_section {
+    display: flex;
+    justify-content: flex-start;
+}
